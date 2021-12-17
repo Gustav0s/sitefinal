@@ -1,0 +1,62 @@
+body{
+    background: #fdffb6;
+}
+
+header{
+    background-color: #011627;
+    color:white;
+}
+
+nav ul li a{
+    color: white;
+}
+
+nav ul li a:hover{
+    background-color: #797596;
+    color: white;
+}
+
+#startimg{
+    width: 70%;
+    opacity: 0.7;
+}
+
+#txtonstartimg{
+    position: absolute;
+    z-index: 1;
+    top: 400px;
+    left: 350px;
+    font-size: 70px;
+    color: white;
+}
+
+#container{
+    border-color: #FF7D00;
+}
+
+::selection {
+    background: #FF7D00;
+}
+
+footer{
+    font-weight: bold;
+    background-color: #011627;
+    color:white;
+}
+
+#titulomain{
+    color: black;
+}
+
+#cores{
+    font-size: 23px;
+    padding-left: 50px;
+}
+
+#cores ul li a{
+    text-decoration: none;
+}
+
+.referencias a{
+    color: #FF7D00;
+}

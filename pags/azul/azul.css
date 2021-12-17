@@ -1,0 +1,35 @@
+body{
+    background: #ade8f4;
+}
+
+header{
+    background-color: #03045e;
+    color:white;
+}
+
+nav ul li a{
+    color: white;
+}
+
+nav ul li a:hover{
+    background-color: #48cae4;
+    color: white;
+}
+
+#container{
+    border-color: #03045e;
+}
+
+::selection {
+    background: #FF7D00;
+}
+
+footer{
+    font-weight: bold;
+    background-color: #03045e;
+    color:white;
+}
+
+.referencias a{
+    color: #48cae4;
+}
